@@ -50,10 +50,9 @@ nav ul li a {
 }
 
 nav lg {
-    width: 30%;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
-    transform: scale(0.4) 
+    transform: scale(0.04) 
 }
 /* Hero Section */
 .hero {
