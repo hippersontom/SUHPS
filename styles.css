@@ -27,7 +27,7 @@ a {
     background-color: #007B8C;
     padding: 20px;
     display:inline;
-    vertical-align: middle
+    horizontal-align: middle
 }
 
 .navbar .logo h1 {
@@ -38,7 +38,6 @@ a {
 .navbar .lg {
     border-radius: 1px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    vertical-align: top
     
     
 }
