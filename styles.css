@@ -33,16 +33,20 @@ a {
     align-items: center;
 }
 
+.navbar .logo {
+    dislay: flex;
+    flex-drection: row;
+    
+}
+
+
 .navbar .logo h1 {
     color: white;
     font-size: 24px;
-
-}
-
-.navbar .lg {
-    left: 50px;
     
-}
+
+}   
+
 nav ul {
     list-style-type: none;
     display: flex;
