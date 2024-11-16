@@ -27,7 +27,8 @@ a {
     justify-content: space-between;
     background-color: #007B8C;
     padding: 20px;
-    vertical-align: middle
+    vertical-align: middle;
+    align-items: flex-start
 }
 
 .navbar .logo h1 {
