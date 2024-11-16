@@ -29,18 +29,20 @@ a {
     padding: 20px;
     vertical-align: middle;
     align-items: flex-start
+    
 }
 
 .navbar .logo h1 {
     color: white;
     font-size: 24px;
-    align-self: center;
+    display: flex;
+    flex-direction: row;
+    align-items: centre;
 }
 
 .navbar .lg {
     border-radius: 1px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    align-self: center
     
     
 }
