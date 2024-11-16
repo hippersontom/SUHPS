@@ -34,7 +34,7 @@ a {
 }
 
 .navbar .logo {
-    dislay: flex;
+    display: flex;
     flex-drection: row;
     
 }
