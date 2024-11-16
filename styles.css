@@ -23,10 +23,10 @@ a {
 
 /* Navbar */
 .navbar {
-    display: flex;
     justify-content: space-between;
     background-color: #007B8C;
     padding: 20px;
+    display:inline:
     vertical-align: middle
 }
 
