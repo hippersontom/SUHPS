@@ -36,6 +36,7 @@ a {
 .navbar .logo {
     display: flex;
     flex-drection: row;
+    align-items: center;
     
 }
 
@@ -43,7 +44,6 @@ a {
 .navbar .logo h1 {
     color: white;
     font-size: 24px;
-    align-items: center;
     
 
 }   
