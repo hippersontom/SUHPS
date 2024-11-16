@@ -28,16 +28,15 @@ a {
     background-color: #007B8C;
     padding: 20px;
     vertical-align: middle;
-    align-items: flex-start
-    
+    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
 }
 
 .navbar .logo h1 {
     color: white;
     font-size: 24px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
+
 }
 
 .navbar .lg {
