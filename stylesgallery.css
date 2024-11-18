@@ -91,11 +91,11 @@ nav ul li a {
 
 
 /* Gallery Section */
-#two_thousand_twenty_four {
+.two_thousand_twenty_four {
     padding: 40px 20px;
 }
 
-#two_thousand_twenty_four h2 {
+.two_thousand_twenty_four h2 {
     font-size: 30px;
     margin-bottom: 20px;
     text-align: center;
