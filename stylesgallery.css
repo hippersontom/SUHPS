@@ -1,0 +1,166 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #007B8C;
+    padding: 10px;
+    vertical-align: middle;
+    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
+}
+
+.navbar .logo {
+    display: flex;
+    flex-drection: row;
+    align-items: center;
+    
+}
+
+
+.navbar .logo h1 {
+    color: white;
+    font-size: 24px;
+    
+
+}   
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    font-size: 18px;
+}
+
+
+/* Hero Section */
+.home {
+    background-color: #004f58;
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.home h2 {
+    font-size: 36px;
+}
+
+.home p {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.home .btn {
+    background-color: #00aaff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+/* Gallery Section */
+#two_thousand_twenty_four {
+    padding: 40px 20px;
+}
+
+#two_thousand_twenty_four h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.two_thousand_twenty_four-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.two_thousand_twenty_four-container img {
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.two_thousand_twenty_four-container img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+/* Contact Section */
+#contact {
+    padding: 40px 20px;
+    background-color: #ffffff;
+}
+
+#contact h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+form input,
+form textarea {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+form button {
+    background-color: #007B8C;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+form button:hover {
+    background-color: #005f65;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #004f58;
+    color: white;
+}
