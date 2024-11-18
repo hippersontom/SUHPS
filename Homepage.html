@@ -1,14 +1,92 @@
-
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SUHPS</title>
+    <meta name="description" content="Southampton University Human Powered Submarine - Innovating in Marine Technology and Engineering">
+    <title>SUHPS Gallery</title>
+    <link rel="stylesheet" href="stylesgallery.css">
 </head>
+
 <body>
-    <h1 style="text-align:center;color:blue;font-family:courier;">Welcome to Southampton University Human Powered Submarine 2024</h1>
-    <p>Tsunami</p>
-    <img src="transmission-2019_orig.jpg">
+
+    <header>
+        <div class="navbar">
+            <div class="logo">
+                <h1>SUHPS</h1>
+                <img src="SUHPS_Logo2.png"; width=75; height=75>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#Submarines">Gallery</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+
+    </header>
+
+    <section id="home">
+        <div class="hero">
+            <h2>SUHPS through the years</h2>
+            <a href="#2024" class="btn">2024</a>
+            <a href="#2023" class="btn">2023</a>
+            <a href="#2022" class="btn">2022</a>
+        </div>
+    </section>
+
+
+    <section id="2024">
+        <h2>Our previous submarines</h2>
+        <div class="gallery-container">
+            <img src="SubmarineTempest.png" alt="Tempest (2019-2022)">
+            <img src="SubmarineTsunami.jpg" alt="Tsunami (2023-present)">
+            <img src="SubmarineKaiju.jpg" alt="Kaiju (-2019)">
+        </div>
+    </section>
+
+    <section id="2023">
+        <h2>Our previous submarines</h2>
+        <div class="gallery-container">
+            <img src="SubmarineTempest.png" alt="Tempest (2019-2022)">
+            <img src="SubmarineTsunami.jpg" alt="Tsunami (2023-present)">
+            <img src="SubmarineKaiju.jpg" alt="Kaiju (-2019)">
+        </div>
+    </section>
+
+    <section id="2022">
+        <h2>Our previous submarines</h2>
+        <div class="gallery-container">
+            <img src="SubmarineTempest.png" alt="Tempest (2019-2022)">
+            <img src="SubmarineTsunami.jpg" alt="Tsunami (2023-present)">
+            <img src="SubmarineKaiju.jpg" alt="Kaiju (-2019)">
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Interested in joining or learning more? Reach out to us!</p>
+        <form action="submit_form.php" method="post">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit" class="btn">Send Message</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Southampton University Human Powered Submarine society. All Rights Reserved.</p>
+    </footer>
+
 </body>
+
 </html>
