@@ -64,23 +64,23 @@ nav ul li a {
 
 
 /* Hero Section */
-.home {
+.hero {
     background-color: #004f58;
     color: white;
     text-align: center;
     padding: 80px 20px;
 }
 
-.home h2 {
+.hero h2 {
     font-size: 36px;
 }
 
-.home p {
+.hero p {
     font-size: 20px;
     margin-top: 10px;
 }
 
-.home .btn {
+.hero .btn {
     background-color: #00aaff;
     color: white;
     padding: 10px 20px;
