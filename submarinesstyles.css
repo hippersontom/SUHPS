@@ -106,33 +106,152 @@ nav ul li a {
 }
 
 /* Gallery Section */
-#gallery {
+#Tsunami {
     padding: 40px 20px;
 }
 
-#gallery h2 {
+#Tsunami h2 {
     font-size: 30px;
     margin-bottom: 20px;
     text-align: center;
 }
 
-.gallery-container {
+.Tsunami-container {
     display: flex;
     justify-content: space-around;
     gap: 20px;
     flex-wrap: wrap;
 }
 
-.gallery-container img {
+.Tsunami-container img {
     width: 30%;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.gallery-container img:hover {
+.Tsunami-container img:hover {
     transform: scale(1.05);
     transition: transform 0.3s ease;
 }
+
+/* Gallery Section */
+#Tempest {
+    padding: 40px 20px;
+}
+
+#Tempest h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.Tempest-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.Tempest-container img {
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.Tempest-container img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+
+
+/* Gallery Section */
+#Kaiju {
+    padding: 40px 20px;
+}
+
+#Kaiju h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.Kaiju-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.Kaiju-container img {
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.Kaiju-container img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+/* Gallery Section */
+#NautiBuoy {
+    padding: 40px 20px;
+}
+
+#NautiBuoy h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.NautiBuoy-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.NautiBuoy-container img {
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.NautiBuoy-container img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+/* Gallery Section */
+#UoSSOrca {
+    padding: 40px 20px;
+}
+
+#UoSSOrca h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.UoSSOrca-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.UoSSOrca-container img {
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.UoSSOrca-container img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+
+
 
 /* Contact Section */
 #contact {
