@@ -163,7 +163,12 @@ nav ul li a {
     transition: transform 0.3s ease;
 }
 
-
+.Tempest-container2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
 
 /* Gallery Section */
 #Kaiju {
