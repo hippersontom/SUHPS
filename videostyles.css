@@ -110,28 +110,33 @@ nav ul li a {
     padding: 40px 20px;
 }
 
-#gallery h2 {
+#Submarines h2 {
     font-size: 30px;
     margin-bottom: 20px;
     text-align: center;
 }
 
-.gallery-container {
+.Submarines-container {
     display: flex;
     justify-content: space-around;
     gap: 20px;
     flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
 }
 
-.gallery-container img {
+.Submarines-container-video {
     width: 30%;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-right: 20px; /* Space between the video and the description */
+
 }
 
-.gallery-container img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease;
+.Submarines-container-Description{
+    max-width: 500px; /* Limit the width of the description */
+    font-size: 16px;
+    
 }
 
 /* Contact Section */
