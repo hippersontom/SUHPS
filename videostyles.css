@@ -109,13 +109,14 @@ nav ul li a {
 #Submarines {
     padding: 40px 20px;
     background-color: #004f58;
+    color: white;
+
 }
 
 #Submarines h2 {
     font-size: 30px;
     margin-bottom: 20px;
     text-align: center;
-    font-color: #ffffff;
 }
 
 #Submarines .container {
@@ -136,7 +137,6 @@ nav ul li a {
 .Submarines .container .Description {
     max-width: 300px; /* Limit the width of the description */
     font-size: 16px;
-    font-color: #ffffff;
 
 }
 /* Contact Section */
