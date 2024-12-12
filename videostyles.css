@@ -35,7 +35,7 @@ a {
 
 .navbar .logo {
     display: flex;
-    flex-drection: row;
+    flex-direction: row;
     align-items: center;
     
 }
@@ -118,27 +118,23 @@ nav ul li a {
 
 .Submarines .container {
     display: flex;
-    justify-content: space-around;
-    gap: 20px;
     flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-between;
+    justify-content: space-around; /* Use space-around for better distribution */
+    gap: 20px; /* Ensure space between items */
+    align-items: flex-start; /* Align items to the top to avoid vertical misalignment */
 }
 
 .Submarines .container .video {
-    width: 30%;
+    width: 30%; /* Ensure each video container takes up 30% of the width */
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-right: 20px; /* Space between the video and the description */
-
+    margin-right: 20px; /* Space between video and description */
 }
 
-.Submarines .container .Description{
+.Submarines .container .Description {
     max-width: 500px; /* Limit the width of the description */
     font-size: 16px;
-    
 }
-
 /* Contact Section */
 #contact {
     padding: 40px 20px;
