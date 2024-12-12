@@ -116,7 +116,7 @@ nav ul li a {
     text-align: center;
 }
 
-.Submarines-container {
+.Submarines .container {
     display: flex;
     justify-content: space-around;
     gap: 20px;
@@ -125,7 +125,7 @@ nav ul li a {
     justify-content: space-between;
 }
 
-.Submarines-container-video {
+.Submarines .container .video {
     width: 30%;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -133,7 +133,7 @@ nav ul li a {
 
 }
 
-.Submarines-container-Description{
+.Submarines .container .Description{
     max-width: 500px; /* Limit the width of the description */
     font-size: 16px;
     
