@@ -134,7 +134,7 @@ nav ul li a {
 }
 
 .Submarines .container .Description {
-    max-width: 500px; /* Limit the width of the description */
+    max-width: 300px; /* Limit the width of the description */
     font-size: 16px;
     font-color: #ffffff;
 
