@@ -108,6 +108,7 @@ nav ul li a {
 /* Gallery Section */
 #Submarines {
     padding: 40px 20px;
+    background-color: #ffffff;
 }
 
 #Submarines h2 {
@@ -116,7 +117,7 @@ nav ul li a {
     text-align: center;
 }
 
-.Submarines .container {
+#Submarines .container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around; /* Use space-around for better distribution */
