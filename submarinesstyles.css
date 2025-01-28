@@ -134,6 +134,13 @@ nav ul li a {
     transition: transform 0.3s ease;
 }
 
+.Tsunami-container2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
 /* Gallery Section */
 #Tempest {
     padding: 40px 20px;
@@ -198,6 +205,14 @@ nav ul li a {
     transform: scale(1.05);
     transition: transform 0.3s ease;
 }
+
+.Kaiju-container2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
 /* Gallery Section */
 #NautiBuoy {
     padding: 40px 20px;
@@ -226,6 +241,14 @@ nav ul li a {
     transform: scale(1.05);
     transition: transform 0.3s ease;
 }
+
+.NautiBuoy-container2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
 /* Gallery Section */
 #UoSSOrca {
     padding: 40px 20px;
@@ -255,6 +278,12 @@ nav ul li a {
     transition: transform 0.3s ease;
 }
 
+.UoSSOrca-container2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
 
 
 
