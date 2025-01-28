@@ -242,13 +242,21 @@ nav ul li a {
     transition: transform 0.3s ease;
 }
 
-.NautiBuoy-container2 {
-    display: flex;
-    justify-content: space-around;
-    gap: 20px;
-    flex-wrap: wrap;
+.NautiBuoy-column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    heigh: 200px;
+    
 }
 
+.NautiBuoy-row:after {
+    content: "";
+    display: table;
+    clear: both;
+
+    
+}
 /* Gallery Section */
 #UoSSOrca {
     padding: 40px 20px;
