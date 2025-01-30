@@ -158,6 +158,47 @@ nav ul li a {
 }
 
 
+/* Navbar */
+.Socials {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 40px 20px;
+    vertical-align: middle;
+    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Socials .logo {
+    display: flex;
+    flex-drection: row;
+    align-items: center;
+    
+}
+
+
+.Socials .logo h1 {
+    color: white;
+    font-size: 24px;
+    
+
+}   
+
+Socials ul {
+    list-style-type: none;
+    display: flex;
+}
+
+Socials ul li {
+    margin: 0 15px;
+}
+
+Socials ul li a {
+    color: white;
+    font-size: 18px;
+}
+
 
 
 
