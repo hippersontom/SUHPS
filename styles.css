@@ -177,7 +177,7 @@ form button:hover {
 /* Footer */
 footer {
     text-align: center;
-    padding: 20px;
+    padding: 20px 20px;
     background-color: #004f58;
     color: white;
     gap: 20px;
