@@ -242,13 +242,6 @@ nav ul li a {
     transition: transform 0.3s ease;
 }
 
-.NautiBuoy-column {
-    float: left;
-    width: 33.33%;
-    padding: 10px;
-    heigh: 200px;
-    
-}
 
 .NautiBuoy-row:after {
     content: "";
@@ -257,6 +250,16 @@ nav ul li a {
 
     
 }
+
+.NautiBuoy-column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    heigh: 200px;
+    
+}
+
+
 /* Gallery Section */
 #UoSSOrca {
     padding: 40px 20px;
