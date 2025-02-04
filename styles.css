@@ -66,6 +66,8 @@ nav ul li a {
 .hero {
     background-image: url('Homeimage.jpg');
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
     background-color: #004f58;
     color: white;
     text-align: center;
