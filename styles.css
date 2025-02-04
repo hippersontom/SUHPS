@@ -62,9 +62,10 @@ nav ul li a {
     font-size: 18px;
 }
 
-
 /* Hero Section */
 .hero {
+    background-image: url('Homeimage.jpg');
+    background-repeat: no-repeat;
     background-color: #004f58;
     color: white;
     text-align: center;
