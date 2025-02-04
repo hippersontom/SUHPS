@@ -67,7 +67,7 @@ nav ul li a {
     background-image: url('SubTeams.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100% 100%;
     background-color: #004f58;
     color: white;
     text-align: center;
