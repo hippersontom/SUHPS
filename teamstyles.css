@@ -90,49 +90,128 @@ nav ul li a {
 }
 
 /* About Section */
-#about {
+#Hull {
     padding: 40px 20px;
     background-color: #e8f9fb;
+    text-align: center;
+
 }
 
-#about h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
-}
-
-#about p {
-    font-size: 18px;
-    line-height: 1.6;
-}
-
-/* Gallery Section */
-#gallery {
-    padding: 40px 20px;
-}
-
-#gallery h2 {
+#Hull h2 {
     font-size: 30px;
     margin-bottom: 20px;
     text-align: center;
 }
 
-.gallery-container {
-    display: flex;
-    justify-content: space-around;
-    gap: 20px;
-    flex-wrap: wrap;
+#Hull p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
 }
 
-.gallery-container img {
-    width: 30%;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+/* About Section */
+#Propulsion {
+    padding: 40px 20px;
+    background-color: #ffffff;
+    text-align: center;
+
 }
 
-.gallery-container img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease;
+#Propulsion h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
 }
+
+#Propulsion p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* About Section */
+#Transmission {
+    padding: 40px 20px;
+    background-color: #e8f9fb;
+    text-align: center;
+
+}
+
+#Transmission h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#Transmission p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* About Section */
+#Control {
+    padding: 40px 20px;
+    background-color: #ffffff;
+    text-align: center;
+
+}
+
+#Control h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#Control p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+
+/* About Section */
+#Diving {
+    padding: 40px 20px;
+    background-color: #e8f9fb;
+    text-align: center;
+
+}
+
+#Diving h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#Diving p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+
+/* About Section */
+#Finance {
+    padding: 40px 20px;
+    background-color: #ffffff;
+    text-align: center;
+
+}
+
+#Finance h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#Finance p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+
 
 /* Contact Section */
 #contact {
