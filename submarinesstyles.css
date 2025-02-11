@@ -312,11 +312,13 @@ nav ul li a {
 #contact {
     padding: 40px 20px;
     background-color: #ffffff;
+    text-align: center;
 }
 
 #contact h2 {
     font-size: 30px;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 form {
