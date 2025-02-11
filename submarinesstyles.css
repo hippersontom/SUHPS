@@ -108,6 +108,7 @@ nav ul li a {
 /* Gallery Section */
 #Tsunami {
     padding: 40px 20px;
+    text-align: center;
 }
 
 #Tsunami h2 {
@@ -144,6 +145,7 @@ nav ul li a {
 /* Gallery Section */
 #Tempest {
     padding: 40px 20px;
+    text-align: center;
 }
 
 #Tempest h2 {
@@ -180,6 +182,7 @@ nav ul li a {
 /* Gallery Section */
 #Kaiju {
     padding: 40px 20px;
+    text-align: center;
 }
 
 #Kaiju h2 {
@@ -216,6 +219,7 @@ nav ul li a {
 /* Gallery Section */
 #NautiBuoy {
     padding: 40px 20px;
+    text-align: center;
 }
 
 #NautiBuoy h2 {
@@ -263,6 +267,8 @@ nav ul li a {
 /* Gallery Section */
 #UoSSOrca {
     padding: 40px 20px;
+    text-align: center;
+    font-size: 30px;    
 }
 
 #UoSSOrca h2 {
