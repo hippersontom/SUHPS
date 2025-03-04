@@ -119,35 +119,8 @@ nav ul li a {
     transition: transform 0.3s ease;
 }
 
-#two_thousand_twenty_three {
-    padding: 40px 20px;
-}
-
-#two_thousand_twenty_three h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
-    text-align: center;
-}
-
-.two_thousand_twenty_three-container {
-    display: flex;
-    justify-content: space-around;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
-.two_thousand_twenty_three-container img {
-    width: 30%;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.two_thousand_twenty_three-container img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease;
-}
-
 #two_thousand_twenty_two {
+    background-color: #004f58;
     padding: 40px 20px;
 }
 
@@ -174,65 +147,6 @@ nav ul li a {
     transform: scale(1.05);
     transition: transform 0.3s ease;
 }
-
-
-#two_thousand_twenty_one {
-    padding: 40px 20px;
-}
-
-#two_thousand_twenty_one h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
-    text-align: center;
-}
-
-.two_thousand_twenty_one-container {
-    display: flex;
-    justify-content: space-around;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
-.two_thousand_twenty_one-container img {
-    width: 30%;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.two_thousand_twenty_one-container img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease;
-}
-
-
-#two_thousand_twenty {
-    padding: 40px 20px;
-}
-
-#two_thousand_twenty h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
-    text-align: center;
-}
-
-.two_thousand_twenty-container {
-    display: flex;
-    justify-content: space-around;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
-.two_thousand_twenty-container img {
-    width: 30%;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.two_thousand_twenty-container img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease;
-}
-
 
 #two_thousand_nineteen {
     padding: 40px 20px;
@@ -264,6 +178,8 @@ nav ul li a {
 
 
 #two_thousand_eighteen {
+    background-color: #004f58;
+
     padding: 40px 20px;
 }
 
@@ -323,6 +239,8 @@ nav ul li a {
 
 
 #two_thousand_sixteen {
+    background-color: #004f58;
+
     padding: 40px 20px;
 }
 
@@ -381,6 +299,7 @@ nav ul li a {
 
 
 #two_thousand_fourteen {
+    background-color: #004f58;
     padding: 40px 20px;
 }
 
